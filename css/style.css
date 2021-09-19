@@ -1,0 +1,39 @@
+A IMG {
+	BORDER-RIGHT: #905265 1px solid; BORDER-TOP: #905265 1px solid; BORDER-LEFT: #905265 1px solid; BORDER-BOTTOM: #905265 1px solid
+}
+A:hover IMG {
+	BORDER-RIGHT: #0177bd 1px solid; BORDER-TOP: #0177bd 1px solid; BORDER-LEFT: #0177bd 1px solid; BORDER-BOTTOM: #0177bd 1px solid
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #ffffff; 
+	SCROLLBAR-HIGHLIGHT-COLOR: #312A22; 
+	SCROLLBAR-SHADOW-COLOR: #312A22; 
+	SCROLLBAR-3DLIGHT-COLOR: #312A22;  
+	SCROLLBAR-ARROW-COLOR: #312A22; 
+	SCROLLBAR-TRACK-COLOR: #312A22;  
+	SCROLLBAR-DARKSHADOW-COLOR: #312A22; 
+	SCROLLBAR-BASE-COLOR: #312A22; 
+	
+	
+}
+BODY {
+	FONT-SIZE: 8pt; COLOR: #818574; LINE-HEIGHT: 8pt; FONT-FAMILY: verdana; TEXT-ALIGN: left}
+
+TD {
+	FONT-SIZE: 8pt; COLOR: #818574; LINE-HEIGHT: 13pt; FONT-FAMILY: verdana; TEXT-ALIGN: left}
+
+
+
+A {
+	COLOR: #d1d1cf; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #d1d1cf; TEXT-DECORATION: underline
+}
+.space{
+    padding: 5px;
+    margin: 0px 15px 25px;
+}
+.shout{
+    margin: 20px 5px;
+}
