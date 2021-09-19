@@ -40,7 +40,15 @@ A:hover {
 
 .bio{
 	margin-bottom: 30px;
+	
 }
 .header{
 	margin-left: 20px;
+}
+
+.rss-box {
+    margin: 10px 0 20px 20px;
+   
+    border: 2px  #AF9B4F;
+    border-left-style: solid;
 }
